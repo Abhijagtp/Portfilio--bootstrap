@@ -1,0 +1,110 @@
+@media (max-width:570px) {
+    h1 {
+        font-size: 3.5rem;
+    }
+    .left img{
+        width:25%;
+       
+
+    }
+    button{
+        width: 45%;
+    }
+    .links i {
+        font-size: 3rem;
+    
+    }
+    .card1{
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.285);
+        width: 100%;
+    }
+    .card2{
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.285);
+        width: 100%;
+    }
+    .card3{
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.285);
+        width: 100%;
+    }
+    .edu{
+        margin-bottom: 3rem;
+    }
+    .skills img{
+        /* background-color: #5ee7df; */
+        width: 70%;
+        height: 100%;
+        margin-left: 1rem;
+        padding-bottom: 4rem;
+      
+    }
+    .skills{
+        margin: 0;
+        padding: 0;
+    }
+    .filters ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    
+    
+    }
+    .filters{
+        margin-bottom: 3rem;
+    }
+    .item {
+        margin: 1.4rem; /* Spacing between items */
+        padding: 15px;
+        box-sizing: border-box;
+        width: 90vw;
+        margin-bottom: 1rem;
+    }
+    .grid{
+        padding-left: 0rem;
+        
+     }
+    .btn-list{
+        /* display: flex;
+        align-items: center;
+        justify-content: center; */
+        /* border-radius: 1rem; */
+        background-color: transparent;
+        width: max-content;
+        /* height: vh; */
+        
+       
+    }
+    .right{
+        margin-top: 5rem;
+        padding-left: 0rem;
+        
+    }
+    input{
+        padding: 1rem;
+        margin-bottom: 2rem;
+        width:100%;
+    }
+    textarea{
+        width: 100%;
+
+
+    }
+    .con{
+        padding: 2rem;
+        margin-bottom: 3rem;
+     }
+
+     footer{
+        background-color: #66a6ff;
+        height:10vh;
+        width: 100vw;
+        text-align: center;
+        padding: 1.3rem;
+    }
+}
