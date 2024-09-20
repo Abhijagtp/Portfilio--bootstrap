@@ -30,8 +30,9 @@ button{
 }
 
 h1{
-    font-family: "Roboto";
+    /* font-family: "Roboto"; */
     font-size:4.5rem;
+    font-weight: 700;
     
 }
 
